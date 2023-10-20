@@ -7,8 +7,8 @@
 #define relay 16
 
 // WiFi
-const char *ssid = "OMiLAB";
-const char *password = "digifofulbs";
+const char *ssid = "iPhone X";
+const char *password = "012345678";
 // MQTT Broker
 const char *mqtt_broker = "broker.emqx.io";
 const char *subscribe_topic = "/ES2-IOT/test/viotimoteimihaivalva/"; // Topic !!
@@ -24,7 +24,7 @@ void setup() {
   // Set software serial baud to 115200;
   pinMode(relay,OUTPUT);
   digitalWrite(relay,HIGH);
-  Serial.begin(115200);
+  Serial.begin(9600);
   // connecting to a WiFi network
   WiFi.begin(ssid, password);
   while (WiFi.status() != WL_CONNECTED) {
@@ -62,13 +62,13 @@ void subscribe_callback(char *topic, byte *payload, unsigned int length) {
       Serial.print((char) payload[i]);
       publisher_message += (char)payload[i];
   }
-  relay(publisher_message);
+  relay_on(publisher_message);
   Serial.println();
   Serial.println("-----------------------");
 }
 
 
-void relay(String pub_msg)
+void relay_on(String pub_msg)
 {
   if(pub_msg == "on"){
     digitalWrite(relay, LOW);
