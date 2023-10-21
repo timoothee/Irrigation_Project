@@ -12,8 +12,7 @@ const char *password = "012345678";
 #define DHTPIN 16  
 
 int soil_moisture_pin = A0;
-String temp, hum, soil, retVal, retVal1;
-char retval_buf[20];
+char string_to_be_send[20];
 
 // MQTT Broker
 const char *mqtt_broker = "broker.emqx.io";
@@ -25,10 +24,9 @@ String client_id = "esp8266-client-es2-iot-test-1-publisher";
 
 WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
-String v;
 
 void setup() {
-  // Set software serial baud to 115200;
+  // Set software serial baud to 9600;
   Serial.begin(9600);
   // connecting to a WiFi network
   WiFi.begin(ssid, password);
@@ -50,35 +48,35 @@ void setup() {
           delay(2000);
       }
   }
-  // subscribe to topic
 }
 
-void sensor_readings(){
-  float sensor_value  = analogRead(soil_moisture_pin);
-  int sensor_value_final=map(sensor_value, 0,1013, 0, 100);
-  Serial.print("Sensor Value: ");
-  Serial.println(sensor_value_final);
+void loop() {
+  mqttClient.publish(publish_topic, sensor_readings());
+}
+
+char* sensor_readings(){
+  String temp, hum, soil, all_data;
+  
+  float sensor_value  = analogRead(soil_moisture_pin) * 0.1;
+  int sensor_value_final = map(sensor_value, 0, 1013, 0, 100);
+  soil = sensor_value_final;
 
   DHT.read(DHTPIN);
+  temp = DHT.temperature;
+  hum = DHT.humidity;
+
+  /*
+  Serial.print("Sensor Value: ");
+  Serial.println(sensor_value_final);
   Serial.print("temp:");
   Serial.print(DHT.temperature);
   Serial.print("  humi:");
   Serial.println(DHT.humidity);
+  */
 
-  temp = DHT.temperature;
-  hum = DHT.humidity;
-  soil = sensor_value_final;
-  retVal = temp +'_' + hum + '-' + soil;
-  retVal1 = retVal.toCharArray(retval_buf, retVal.length());
+  all_data ="+" + temp +'_' + hum + '-' + soil + '=';
+  all_data.toCharArray(string_to_be_send, all_data.length() + 1);
   delay(2000);
-  Serial.print(retVal);
-}
 
-void loop() {
-mqttClient.loop();
-mqttClient.publish(publish_topic, retVal1);
-delay(500);
-mqttClient.publish(publish_topic,"off");
-delay(500);
-sensor_readings();
+  return string_to_be_send;
 }
