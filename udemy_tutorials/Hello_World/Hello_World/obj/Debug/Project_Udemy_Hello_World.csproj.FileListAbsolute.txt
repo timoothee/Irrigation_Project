@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\bin\Debug\Project_Udemy_Hello_World.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\bin\Debug\Project_Udemy_Hello_World.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\bin\Debug\Project_Udemy_Hello_World.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\obj\Debug\Project_Udemy_Hello_World.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\obj\Debug\Project_Udemy_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\obj\Debug\Project_Udemy_Hello_World.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Project_Udemy_Hello_World\Project_Udemy_Hello_World\obj\Debug\Project_Udemy_Hello_World.pdb
