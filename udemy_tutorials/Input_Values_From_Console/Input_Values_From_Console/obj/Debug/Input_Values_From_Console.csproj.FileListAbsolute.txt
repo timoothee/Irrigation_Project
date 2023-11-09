@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\bin\Debug\Input_Values_From_Console.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\bin\Debug\Input_Values_From_Console.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\bin\Debug\Input_Values_From_Console.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\obj\Debug\Input_Values_From_Console.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\obj\Debug\Input_Values_From_Console.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\obj\Debug\Input_Values_From_Console.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Input_Values_From_Console\Input_Values_From_Console\obj\Debug\Input_Values_From_Console.pdb
