@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\bin\Debug\MathC#.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\bin\Debug\MathC#.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\bin\Debug\MathC#.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\obj\Debug\MathC#.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\obj\Debug\MathC#.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\obj\Debug\MathC#.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\MathC#\MathC#\obj\Debug\MathC#.pdb
