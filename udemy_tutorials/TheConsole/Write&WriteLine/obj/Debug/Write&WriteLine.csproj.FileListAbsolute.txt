@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\obj\Debug\Write&WriteLine.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\obj\Debug\Write&WriteLine.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\bin\Debug\Write&WriteLine.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\bin\Debug\Write&WriteLine.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\bin\Debug\Write&WriteLine.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\obj\Debug\Write&WriteLine.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Write&WriteLine\Write&WriteLine\obj\Debug\Write&WriteLine.pdb
