@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Loops\Loops\obj\Debug\Loops.pdb
