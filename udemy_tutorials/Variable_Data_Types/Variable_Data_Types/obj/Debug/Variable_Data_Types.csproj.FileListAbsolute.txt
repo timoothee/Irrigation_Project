@@ -1,0 +1,7 @@
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\bin\Debug\Variable_Data_Types.exe.config
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\bin\Debug\Variable_Data_Types.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\bin\Debug\Variable_Data_Types.pdb
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\obj\Debug\Variable_Data_Types.csproj.AssemblyReference.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\obj\Debug\Variable_Data_Types.csproj.CoreCompileInputs.cache
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\obj\Debug\Variable_Data_Types.exe
+C:\Users\uie99388\ULBS an IV\Dani\Tutorial_C#\Variable_Data_Types\Variable_Data_Types\obj\Debug\Variable_Data_Types.pdb
